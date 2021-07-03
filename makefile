@@ -16,12 +16,12 @@ FLAGS	= -s
 # Add some flag shit
 #FLAGS	+=
 
-CONTENT = Curriculum.md
+CONTENT = FrancoNuñez.md
 
 
 # PDF TARGET
 #-------------------------------------------------------------------------
-TARGET_PDF = formats/Curriculum.pdf
+TARGET_PDF = ./FrancoNuñez.pdf
 
 # Add PDF related FLAGS
 PDF_FLAGS = --latex-engine=xelatex
