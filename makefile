@@ -21,7 +21,7 @@ CONTENT = FrancoNuñez.md
 
 # PDF TARGET
 #-------------------------------------------------------------------------
-TARGET_PDF = ./FrancoNuñez.pdf
+TARGET_PDF = FrancoNuñez.pdf
 
 # Add PDF related FLAGS
 PDF_FLAGS = --latex-engine=xelatex
